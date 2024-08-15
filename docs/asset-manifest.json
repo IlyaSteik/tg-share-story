@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cf99999f.css",
-    "main.js": "./static/js/main.44bb2cd3.js",
+    "main.js": "./static/js/main.96a10b66.js",
     "static/media/FontsFree-Net-SF-Pro-Rounded-Medium.ttf": "./static/media/FontsFree-Net-SF-Pro-Rounded-Medium.293f2af1c6fb8259492f.ttf",
     "static/media/FontsFree-Net-SF-Pro-Rounded-Black.ttf": "./static/media/FontsFree-Net-SF-Pro-Rounded-Black.1034d2b844c01efe61b7.ttf",
     "static/media/Manrope-ExtraBold.ttf": "./static/media/Manrope-ExtraBold.5bb6dba8f39b8e88f5f2.ttf",
@@ -9,10 +9,10 @@
     "static/media/VKSansDisplay-DemiBold.ttf": "./static/media/VKSansDisplay-DemiBold.98c85e529139ae9605e5.ttf",
     "index.html": "./index.html",
     "main.cf99999f.css.map": "./static/css/main.cf99999f.css.map",
-    "main.44bb2cd3.js.map": "./static/js/main.44bb2cd3.js.map"
+    "main.96a10b66.js.map": "./static/js/main.96a10b66.js.map"
   },
   "entrypoints": [
     "static/css/main.cf99999f.css",
-    "static/js/main.44bb2cd3.js"
+    "static/js/main.96a10b66.js"
   ]
 }
